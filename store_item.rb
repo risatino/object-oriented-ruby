@@ -55,3 +55,7 @@ puts item_3.print_item
 
 # puts "The " + name + "are " + color + "are " + "$" + price + "and a type of " + type"
 
+  # def print_item
+  #   puts "The #{@name} are #{@color} are $#{@price} and a type of #{@type}"
+  # end
+
